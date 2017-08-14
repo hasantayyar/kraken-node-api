@@ -1,6 +1,8 @@
 Node Kraken
 ===========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hasantayyar/kraken-node-api.svg)](https://greenkeeper.io/)
+
 This package is forked from https://github.com/nothingisdead/npm-kraken-api
 I'll keep the package updated.
 

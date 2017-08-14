@@ -1,0 +1,38 @@
+{
+  "name": "kraken-node-api",
+  "version": "1.0.1",
+  "description": "kraken.com API client library for NodeJS",
+  "keywords": [
+    "kraken",
+    "api",
+    "btc",
+    "bitcoin"
+  ],
+  "author": "Hasan Tayyar Besik (https://github.com/hasantayyar)",
+  "contributors": [],
+  "license": "MIT",
+  "scripts": {
+    "compile": "babel kraken.js -s -D -d dist/ --presets es2015,stage-0",
+    "prepublish": "npm run compile"
+  },
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "got": "^7.1.0",
+    "qs": ">=6.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasantayyar/npm-kraken-api.git"
+  },
+  "main": "dist/kraken.js",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "bugs": {
+    "url": "https://github.com/hasantayyar/npm-kraken-api/issues",
+    "email": "tayyar.besik@@gmail.com"
+  },
+  "homepage": "https://github.com/hasantayyar/npm-kraken-api#readme",
+  "devDependencies": {}
+}

@@ -1,7 +1,10 @@
-Node Kraken
-===========
+Kraken Api Nodejs Client
+========================
 
-This package is forked from https://github.com/nothingisdead/npm-kraken-api
+
+[![npm version](https://badge.fury.io/js/kraken-node-api.svg)](https://badge.fury.io/js/kraken-node-api)
+
+ssss package is forked from https://github.com/nothingisdead/npm-kraken-api
 I'll keep the package updated.
 
 

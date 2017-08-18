@@ -1,6 +1,6 @@
 {
   "name": "kraken-node-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "kraken.com API client library for NodeJS",
   "keywords": [
     "kraken",
@@ -23,16 +23,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hasantayyar/npm-kraken-api.git"
+    "url": "git+https://github.com/hasantayyar/kraken-node-api.git"
   },
   "main": "dist/kraken.js",
   "engines": {
     "node": ">=0.10"
   },
   "bugs": {
-    "url": "https://github.com/hasantayyar/npm-kraken-api/issues",
+    "url": "https://github.com/hasantayyar/kraken-node-api/issues",
     "email": "tayyar.besik@@gmail.com"
   },
-  "homepage": "https://github.com/hasantayyar/npm-kraken-api#readme",
+  "homepage": "https://github.com/hasantayyar/kraken-node-api#readme",
   "devDependencies": {}
 }
